@@ -2,7 +2,10 @@
 using System.Net;
 using System.IO;
 using System.Xml;
-using Newtonsoft.Json;		//outsite liberary to transfer from json to xml
+using Newtonsoft.Json;      //outsite liberary to transfer from json to xml
+
+//there is some more information 
+//https://kc.humanitarianresponse.info/api/v1/
 
 namespace Work_KoboDownloader
 {
